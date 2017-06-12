@@ -1,0 +1,6 @@
+D:\Metaheuristic-Cpacking\Metaheuristik-cpacking\Meta.CPacking\Meta.CPacking\bin\Debug\Meta.CPacking.exe.config
+D:\Metaheuristic-Cpacking\Metaheuristik-cpacking\Meta.CPacking\Meta.CPacking\bin\Debug\Meta.CPacking.exe
+D:\Metaheuristic-Cpacking\Metaheuristik-cpacking\Meta.CPacking\Meta.CPacking\bin\Debug\Meta.CPacking.pdb
+D:\Metaheuristic-Cpacking\Metaheuristik-cpacking\Meta.CPacking\Meta.CPacking\obj\Debug\Meta.CPacking.csprojResolveAssemblyReference.cache
+D:\Metaheuristic-Cpacking\Metaheuristik-cpacking\Meta.CPacking\Meta.CPacking\obj\Debug\Meta.CPacking.exe
+D:\Metaheuristic-Cpacking\Metaheuristik-cpacking\Meta.CPacking\Meta.CPacking\obj\Debug\Meta.CPacking.pdb
