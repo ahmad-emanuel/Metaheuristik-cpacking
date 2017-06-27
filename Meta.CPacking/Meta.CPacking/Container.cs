@@ -9,16 +9,20 @@ namespace Meta.CPacking
     class Container
     {
         public int[,] ActionPoint ;
-        int CurrentContainer = 0;
+        //int CurrentContainer = 0;
         public int[] OccupiedWeight;
         public List<int[]>[] Solution; 
 
         public Container(Instance inst)
         {
             ActionPoint = new int[inst.NumContainers, 3];
-            ActionPoint = null;
+            //ActionPoint = null;
             OccupiedWeight = new int[inst.NumContainers];
             Solution = new List<int[]>[inst.NumContainers];
+            for(int i=0; i<inst.NumContainers; i++)
+            {
+                Solution[i] = new List<int[]>();
+            }
         }
     }
 }

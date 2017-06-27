@@ -10,3 +10,4 @@ D:\Metaheuristik- Project\Meta.CPacking\Meta.CPacking\obj\Debug\Meta.CPacking.pd
 D:\Metaheuristik- Project\Meta.CPacking\Meta.CPacking\bin\Debug\Meta.CPacking.exe
 D:\Metaheuristik- Project\Meta.CPacking\Meta.CPacking\bin\Debug\Meta.CPacking.pdb
 D:\Metaheuristik- Project\Meta.CPacking\Meta.CPacking\obj\Debug\Meta.CPacking.csprojResolveAssemblyReference.cache
+D:\Metaheuristik- Project\Meta.CPacking\Meta.CPacking\bin\Debug\GAF.dll
